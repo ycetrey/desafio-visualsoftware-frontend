@@ -33,9 +33,6 @@ Documente tudo que julgar necessário, inclusive as motivações de diferentes b
 * Organização
 * Fluxo de trabalho utilizando Git (GitFlow);
 
-## Prazo
-Não existe prazo definido para entrega, mas gostariamos que anotasse uma planilha que pode ser anexada ao teste os horários trabalhados ex.: | 21/01 | 19:00 | 21:00 | onde 21/01 é o dia, 19:00 o horário que começou e 21:00 o horário que parou naquele dia.
-
 ## A apresentação do desafio
 * Crie um repositório para o projeto em sua conta pessoal no GitHub;
 * Crie um README.md com as instruções para a execução do projeto;
