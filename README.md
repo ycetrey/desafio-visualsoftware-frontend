@@ -14,9 +14,8 @@ A forma de componentização é livre e você pode priorizar partes que demonstr
 
 Documente tudo que julgar necessário, inclusive as motivações de diferentes bibliotecas e Frameworks utilizadas.
 
-##### Utilize nossa API de produtos: 
-```GET: https://devmeuerponline.azurewebsites.net/api/produtos```, é necessário passar um header "CompanyToken" para acessar os dados, solicite a informação para quem esta supervisionando este teste, para este endpoint é possível a utilização dos seguintes parametros: pagina (number), tamanhoPagina (number),frase (string), iremos avaliar a sua criativade na implantação de métodos de exibição dos resultados ex.: infiniteScroll, paginação.
-
+##### Utilize API: 
+```URL: https://jsonplaceholder.typicode.com/```, iremos avaliar a sua criativade na implantação de métodos de exibição dos resultados ex.: infiniteScroll, paginação. utilizar os métodos PUT, POST, DELETE, será considerada um plus.
 
 ## O que desejamos de você:
 * Utilize React;
